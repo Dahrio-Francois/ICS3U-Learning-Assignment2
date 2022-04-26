@@ -4,12 +4,10 @@
 
 ###############################################
 
-
-
-name: GitHub's Super Linter
+---
+name: GitHub's Super Linter 
 
 on: push
-
 
 
 jobs:
@@ -19,7 +17,6 @@ jobs:
     name: GitHub's Super Linter
 
     runs-on: ubuntu-latest
-
 
 
     steps:
